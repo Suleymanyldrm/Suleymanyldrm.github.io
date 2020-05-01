@@ -57,12 +57,12 @@ github: Suleymanyldrm
 email: Suleymanyildirim421@gmail.com
 
 authors:
-  Suleymanyldrm:
-    name: Süleyman Yıldırım
-    bio: Sofware Developer
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: Suleymanyldrm36
+    suleymanyildirim:
+        name: Süleyman Yıldırım
+        bio: Sofware Developer.
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter: suleymanyldrm36
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

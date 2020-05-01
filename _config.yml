@@ -14,9 +14,9 @@ picture: assets/images/about.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://www.linkedin.com/in/süleyman-yıldırım-b23242132/
+resume-url: https://www.linkedin.com/in/süleyman-yıldırım-b23242132
 
-url: https://suleymanyldrm.github.io/
+url: https://suleymanyldrm.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/

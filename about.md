@@ -9,7 +9,7 @@ layout: page
 <p> Merhaba ben Süleyman. 1997 İstanbul doğumluyum. İlkokul ve Lise eğitimimi İstanbul'un Esenyurt ilçesinde tamamladım.
 Aklımda uzunca bir süre inşaat mühendisi olmak vardı. Fakat lisenin son yıllarında yazılım alanı merak uyandırmaya 
 başladı bende ve bilgisayar mühendisliği okumaya karar verdim. 2015 yılında Namık Kemal Üniversitesi Çorlu Mühendislik Fakültesi  
-Bilgisayar mühendisliği bölümünü kazandım. Acısıyla tatlısıyla Çorlu'da 4 senemi geçirdim. </p>
+Bilgisayar Mühendisliği bölümünü kazandım. Acısıyla tatlısıyla Çorlu'da 4 senemi geçirdim. </p>
 
 <p> 2016'dan beri yazılımla ilgileniyorum ve yazılım üzerine çalışıyorum. 2018 yılında Merit Risk'de uzun süreli stajyer olarak çalıştım.
 2019 yılında özel bir şirkette kısa sürelide olsa erp üzerine çalıştım. Benimle iletişime geçmek isterseniz, mail adresimi veya

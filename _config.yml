@@ -17,7 +17,6 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://suleymanyldrm.github.io
-enforce_ssl: suleymanyildirim.com
 # your url: https://USERNAME.github.io
 
 permalink: /:title/

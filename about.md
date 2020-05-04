@@ -2,6 +2,7 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <h2>Hakkımda</h2>
@@ -19,7 +20,7 @@ sosyal medya hesaplarımı kullanabilirsiniz.</p>
 
 <ul class="skill-list">
 	<li>Namık Kemal Üniversitesi  2015 - 2019</li>
-	 Bilgisayar Mühendisliği
+	         Bilgisayar Mühendisliği
 	 <br>
 	 <br>	
 	<li>Halil Akkanat Anadolu Lisesi 2011 - 2015</li>

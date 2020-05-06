@@ -19,10 +19,11 @@ sosyal medya hesaplarımı kullanabilirsiniz.</p>
 <h2>Eğitim</h2>
 
 <ul class="skill-list">
-	<li>Namık Kemal Üniversitesi  2015 - 2019</li>
-	         Bilgisayar Mühendisliği
-	 <br>
-	 <br>	
+	<li>Namık Kemal Üniversitesi  2015 - 2019
+	<br>
+	 Bilgisayar Mühendisliği 
+	</li>
+	<br>	
 	<li>Halil Akkanat Anadolu Lisesi 2011 - 2015</li>
 </ul>
 

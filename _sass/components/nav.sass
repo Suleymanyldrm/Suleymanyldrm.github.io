@@ -21,17 +21,23 @@
 .nav
     position: absolute
     right: 0
-    top: 0
+    top: 5px
 
     > .list
         padding: 0 13px 0
+        margin-right: 20px
 
         > .item > .link
             font-size: 2rem
             font-weight: 550
             text-align: center
-            padding: 20px 8px 20px 8px
+            padding: 20px 15px 20px 15px
+            text-decoration: underline
             font-family: "Gelasio", serif
+
+            &:hover
+                color: $alpha
+                font-size: 2.5rem            
 
 .nav-home
     margin-top: 40px

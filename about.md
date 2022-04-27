@@ -7,26 +7,23 @@ layout: page
 
 <h1>Merhaba! Ben Süleyman!</h1>
 
-<!-- <h2>Hakkımda</h2> -->
 
-<p>1997 İstanbul doğumluyum. İlkokul ve Lise eğitimimi İstanbul'un Esenyurt ilçesinde tamamladım.
-Aklımda uzunca bir süre inşaat mühendisi olmak vardı. Fakat lisenin son yıllarında yazılım alanı merak uyandırmaya 
-başladı bende ve bilgisayar mühendisliği okumaya karar verdim. 2015 yılında Namık Kemal Üniversitesi Çorlu Mühendislik Fakültesi  
-Bilgisayar Mühendisliği bölümünü kazandım. Acısıyla tatlısıyla Çorlu'da 4 senemi geçirdim. </p>
+<h2 class="Iam">Biyografi</h2>
 
-<p> 2016'dan beri yazılımla ilgileniyorum ve yazılım üzerine çalışıyorum. 2018 yılında Merit Risk'de uzun süreli stajyer olarak çalıştım.
-2019 yılında özel bir şirkette kısa sürelide olsa erp üzerine çalıştım. Benimle iletişime geçmek isterseniz, mail adresimi veya
-sosyal medya hesaplarımı kullanabilirsiniz.</p>
+<p>Selamlar 1997 İstanbul doğumluyum. İlkokul ve Lise eğitimimi İstanbul'un Esenyurt ilçesinde tamamladım.2015 yılında Namık Kemal Üniversitesi Çorlu Mühendislik Fakültesi Bilgisayar Mühendisliği bölümünü kazandım. Böylece Tekirdağ macerası benim için başlamış oldu.Acısıyla tatlısıyla Tekirdağ'da 4 senemi geçirdim. 
+<br>2016'dan beri yazılımla ilgileniyorum ve yazılım üzerine çalışıyorum. 2018 yılında Merit Risk'de uzun süreli stajyer olarak çalıştım. 2019 yılında özel bir şirkette kısa sürelide olsa erp üzerine çalıştım. 2020-2021 yılları arasında askerlik hizmetimi 1 sene olarak yerine getirdim. Benimle iletişime geçmek isterseniz, mail adresimi veya sosyal medya hesaplarımı kullanabilirsiniz.</p>
+
+
 
 <h2>Eğitim</h2>
 
 <ul class="skill-list">
-	<li>Namık Kemal Üniversitesi  2015 - 2019
+	<li>👨‍🎓 Namık Kemal Üniversitesi   |   2015 - 2019
 	<br>
-	 Bilgisayar Mühendisliği 💻
+	💻 Bilgisayar Mühendisliği 
 	</li>
 	<br>	
-	<li>Halil Akkanat Anadolu Lisesi 2011 - 2015</li>
+	<li>👨🏻‍🎓 Halil Akkanat Anadolu Lisesi   |   2011 - 2015</li>
 </ul>
 
 

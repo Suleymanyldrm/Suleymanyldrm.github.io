@@ -5,7 +5,9 @@ layout: page
 
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<h2>Hakkımda</h2>
+<h1>Merhaba! Ben Süleyman!</h1>
+
+<!-- <h2>Hakkımda</h2> -->
 
 <p> Merhaba ben Süleyman. 1997 İstanbul doğumluyum. İlkokul ve Lise eğitimimi İstanbul'un Esenyurt ilçesinde tamamladım.
 Aklımda uzunca bir süre inşaat mühendisi olmak vardı. Fakat lisenin son yıllarında yazılım alanı merak uyandırmaya 
@@ -33,11 +35,11 @@ sosyal medya hesaplarımı kullanabilirsiniz.</p>
 <ul class="skill-list">
 	<li>HTML</li>
 	<li>CSS</li>
-	<li>C (Basic)</li>
-	<li>C# (Basic)</li>
-	<li>PHP</li>
-	<li>MySQL</li>
+	<li>JavaScript</li>
+	<li>C#</li>
 	<li>Java</li>
+	<li>PHP</li>
+	<li>SQL</li>
 	<li>Android</li>
 	<li>Git</li>
 </ul>

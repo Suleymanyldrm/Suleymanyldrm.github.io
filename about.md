@@ -9,7 +9,7 @@ layout: page
 
 <!-- <h2>Hakkımda</h2> -->
 
-<p> Merhaba ben Süleyman. 1997 İstanbul doğumluyum. İlkokul ve Lise eğitimimi İstanbul'un Esenyurt ilçesinde tamamladım.
+<p>1997 İstanbul doğumluyum. İlkokul ve Lise eğitimimi İstanbul'un Esenyurt ilçesinde tamamladım.
 Aklımda uzunca bir süre inşaat mühendisi olmak vardı. Fakat lisenin son yıllarında yazılım alanı merak uyandırmaya 
 başladı bende ve bilgisayar mühendisliği okumaya karar verdim. 2015 yılında Namık Kemal Üniversitesi Çorlu Mühendislik Fakültesi  
 Bilgisayar Mühendisliği bölümünü kazandım. Acısıyla tatlısıyla Çorlu'da 4 senemi geçirdim. </p>
@@ -23,7 +23,7 @@ sosyal medya hesaplarımı kullanabilirsiniz.</p>
 <ul class="skill-list">
 	<li>Namık Kemal Üniversitesi  2015 - 2019
 	<br>
-	 Bilgisayar Mühendisliği 
+	 Bilgisayar Mühendisliği 💻
 	</li>
 	<br>	
 	<li>Halil Akkanat Anadolu Lisesi 2011 - 2015</li>

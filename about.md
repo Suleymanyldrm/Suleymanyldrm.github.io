@@ -13,8 +13,6 @@ layout: page
 <p>Selamlar 1997 İstanbul doğumluyum. İlkokul ve Lise eğitimimi İstanbul'un Esenyurt ilçesinde tamamladım.2015 yılında Namık Kemal Üniversitesi Çorlu Mühendislik Fakültesi Bilgisayar Mühendisliği bölümünü kazandım. Böylece Tekirdağ macerası benim için başlamış oldu.Acısıyla tatlısıyla Tekirdağ'da 4 senemi geçirdim. 
 <br>2016'dan beri yazılımla ilgileniyorum ve yazılım üzerine çalışıyorum. 2018 yılında Merit Risk'de uzun süreli stajyer olarak çalıştım. 2019 yılında özel bir şirkette kısa sürelide olsa erp üzerine çalıştım. 2020-2021 yılları arasında askerlik hizmetimi yedek subay olarak yerine getirdim. Benimle iletişime geçmek isterseniz, mail adresimi veya sosyal medya hesaplarımı kullanabilirsiniz.</p>
 
-
-
 <h2>Eğitim</h2>
 
 <ul class="skill-list">

@@ -57,9 +57,3 @@ layout: page
 	<li>Android</li>
 	<li>Git</li>
 </ul>
-
-<h2>Projeler</h2>
-
-<ul>
-	<li><a href="https://github.com/Suleymanyldrm/Apartec" target="_blank">Mobil Site Otomasyonu</a></li>
-</ul>

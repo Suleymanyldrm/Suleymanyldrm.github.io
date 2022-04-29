@@ -26,7 +26,7 @@ layout: page
 
 <h2>İş Deneyimi</h2>
 
-<ul class="skill-list">
+<ul class="Work-Experience">
 	<li>🎖️ Milli Savunma Üniversitesi
 	<br>
 	💂 Yedek Subay
@@ -46,8 +46,8 @@ layout: page
 
 <h2>Beceriler</h2>
 
-<ul class="skill-list">
-	<li>HTML</li>
+<ul class="skills">
+	<li>HTML</li> 
 	<li>CSS</li>
 	<li>JavaScript</li>
 	<li>C#</li>

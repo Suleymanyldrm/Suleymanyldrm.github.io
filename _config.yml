@@ -1,6 +1,6 @@
 # main text of home
 name: Süleyman Yıldırım
-bio: Computer Engineer
+bio: Bilgisayar Mühendisi
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -59,7 +59,7 @@ email: Suleymanyildirim421@gmail.com
 authors:
     suleymanyildirim:
         name: Süleyman Yıldırım
-        bio: Computer Engineer
+        bio: Bilgisayar Mühendisi
         external-image: false
         picture: assets/images/pp.jpeg
         twitter: suleymanyldrm36

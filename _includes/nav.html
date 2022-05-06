@@ -8,8 +8,16 @@
 
         {% if site.blog == true %}
             {% if page.title != "About" %}
-                <li class="item" style="padding-right: 12px;">
+                <li class="item">
                     <a class="link" href="{{ site.url }}/about">Hakkımda</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.projects == true %}
+            {% if page.title != "Projects" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/projects">Projeler</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -21,16 +29,6 @@
                 </li>
             {% endif %}
         {% endif %}
-
-
-        {% if site.projects == true %}
-            {% if page.title != "Projects" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/projects">Projeler</a>
-                </li>
-            {% endif %}
-        {% endif %}
-
-        
+ 
     </ul>
 </nav>
